@@ -4,7 +4,6 @@ import BotonAgregarProductos from "../components/BotonAgregarProductos";
 import { useState } from "react";
 import { Table,Button } from "reactstrap";
 import EditarProductos from "../components/EditarProductos";
-import BotonEditarProducto from "../components/BotonEditarProducto";
 
 const Header = () => {
 

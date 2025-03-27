@@ -83,6 +83,7 @@ const EditarProductos = ({ modalActualizar, cerrarModalActualizar, form, editar 
           <Button color="danger" onClick={() => cerrarModalActualizar()}>
             Cancelar
           </Button>
+          
         </ModalFooter>
       </Modal>
     );
